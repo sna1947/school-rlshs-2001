@@ -1,0 +1,31 @@
+body{
+   background-color: rgb(223, 217, 217);
+}
+ul li a{
+    margin-right: 30px;
+}
+.v_color {
+    background: rgb(197, 241, 114);
+}
+.vi_color{
+    background-color:#2c2c54 ;
+    color: aliceblue;
+}
+.vii_color{
+    background-color: #00d2d3;
+}
+.viii_color{
+    background-color:#ff9f43 ;
+}
+.ix_color{
+    background-color: rgb(86, 245, 71);
+}
+.x_color{
+    background-color: #ff5252;
+}
+.xi_color{
+    background-color: #76dd01ef;
+}
+.xii_color{
+    background-color: #b6a9a9;
+}
